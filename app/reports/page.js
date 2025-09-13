@@ -1,10 +1,10 @@
 import DashboardLayout from '@/components/DashboardLayout'
-import Overview from '@/components/pages/Overview'
+import ReportsPage from '@/components/pages/ReportsPage'
 
-export default function Home() {
+export default function Reports() {
   return (
     <DashboardLayout>
-      <Overview />
+      <ReportsPage />
     </DashboardLayout>
   )
 }
