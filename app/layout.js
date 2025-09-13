@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Civic Issue Admin Dashboard - Government of Jharkhand",
+  title: "Janta Admin Dashboard",
   description: "Administrative dashboard for managing civic issues and field engineers",
 };
 

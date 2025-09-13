@@ -61,8 +61,8 @@ export default function DashboardLayout({ children }) {
             <MapPin className="h-5 w-5 text-white" />
           </div>
           <div>
-            <h1 className="text-lg font-semibold">Civic Admin</h1>
-            <p className="text-xs text-muted-foreground">Government of Jharkhand</p>
+            <h1 className="text-lg font-semibold">Janta</h1>
+            <p className="text-xs text-muted-foreground">Admin Dashboard</p>
           </div>
         </div>
       </div>
